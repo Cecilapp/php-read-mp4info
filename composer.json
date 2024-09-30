@@ -1,8 +1,8 @@
 {
-  "name": "php-read-mp4info",
+  "name": "cecil/php-read-mp4info",
   "type": "library",
   "description": "Detects the rotation degree, width and height of a MP4 video.",
-  "keywords": ["mp4","video","rotate", "rotation", "width", "height"],
+  "keywords": ["mp4", "video", "rotate", "rotation", "width", "height"],
   "license": "BSD-3-Clause",
   "authors": [
     {
